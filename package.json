@@ -14,6 +14,8 @@
         "**/*": "prettier --write --ignore-unknown"
     },
     "dependencies": {
+        "@codemirror/lang-cpp": "^6.0.2",
+        "codemirror": "^6.0.1",
         "react": "^18.3.1",
         "react-dom": "^18.3.1"
     },

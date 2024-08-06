@@ -1,0 +1,13 @@
+.cm-content,
+.cm-gutter {
+    min-height: 400px !important;
+}
+.cm-gutters {
+    margin: 1px !important;
+}
+.cm-scroller {
+    overflow: auto !important;
+}
+.cm-wrap {
+    border: 1px solid silver !important;
+}
